@@ -1,0 +1,89 @@
+{
+  "phase": "apk_candidate",
+  "testName": "tween_conflict",
+  "engine": "Three.js 170",
+  "environment": "Real WebGL game page in desktop IAB; synthetic pointer input for pinch; no native Android device",
+  "before": {
+    "time": 73810.70000000019,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      3.9999999999999996,
+      332,
+      325.49999999999994
+    ],
+    "target": [
+      1.5,
+      0,
+      -3.9999999999999996
+    ],
+    "distance": 467.7611570021606,
+    "azimuth": 0.007587107828967833,
+    "polar": 0.781633282676795,
+    "tweenActive": true,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2840
+  },
+  "afterWheel": {
+    "time": 73811.20000000019,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      3.4344523437499985,
+      256.8952712499999,
+      250.9608189062498
+    ],
+    "target": [
+      1.5,
+      0,
+      -3.999999999999999
+    ],
+    "distance": 361.9446665912164,
+    "azimuth": 0.007587107828967833,
+    "polar": 0.7816332826767948,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2840
+  },
+  "settled": {
+    "time": 78212.70000000019,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      3.434452343750001,
+      256.8952712499999,
+      250.96081890625
+    ],
+    "target": [
+      1.5,
+      0,
+      -3.9999999999999987
+    ],
+    "distance": 361.9446665912165,
+    "azimuth": 0.007587107828967837,
+    "polar": 0.7816332826767952,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2802
+  },
+  "tweenNotCancelled": false,
+  "finding": "Zoom input while an actual game tw transition is active; see whether it is cancelled."
+}

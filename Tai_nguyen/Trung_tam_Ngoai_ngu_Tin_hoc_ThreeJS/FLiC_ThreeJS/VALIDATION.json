@@ -1,0 +1,138 @@
+{
+  "checks": [
+    "Standalone file makes no HTTP request",
+    "Finite geometry, normals, UVs and transforms",
+    "Local Three.js r180 runtime",
+    "Four bays each with two folding grille halves",
+    "Eleven removable model groups",
+    "Exact original image bytes: logoFlic",
+    "Exact original image bytes: logoDthu",
+    "Exact original image bytes: vstepStand",
+    "Exact original image bytes: languageStand",
+    "Exact original image bytes: itStand",
+    "Both official logos retain circular proportions",
+    "Camera overview",
+    "Camera preserves building transform: overview",
+    "Camera rearOverview",
+    "Camera preserves building transform: rearOverview",
+    "Camera front",
+    "Camera preserves building transform: front",
+    "Camera back",
+    "Camera preserves building transform: back",
+    "Camera left",
+    "Camera preserves building transform: left",
+    "Camera right",
+    "Camera preserves building transform: right",
+    "Camera top",
+    "Camera preserves building transform: top",
+    "Camera low",
+    "Camera preserves building transform: low",
+    "Locked zoom keeps target",
+    "Locked zoom changes only distance",
+    "Zoom position persists without automatic reset",
+    "Hide layer roof",
+    "Hide layer murals",
+    "Hide layer track",
+    "Hide layer context",
+    "Hide layer planting",
+    "Hide layer standees",
+    "Folding grille slider updates all halves",
+    "Native source asset gallery",
+    "Original logo opens at native resolution",
+    "Reference front",
+    "Reference rear",
+    "Reference frontBoard",
+    "Reference rearBoard",
+    "FLiC_Tong_the GLB 2 header",
+    "FLiC_Tong_the embeds all textures",
+    "FLiC_Tong_the no external buffers",
+    "overall contains signs and standees",
+    "Overall contains track and neighbours",
+    "FLiC_Cong_trinh GLB 2 header",
+    "FLiC_Cong_trinh embeds all textures",
+    "FLiC_Cong_trinh no external buffers",
+    "building contains signs and standees",
+    "Building export excludes setting",
+    "FLiC_Bang_hieu_Standee GLB 2 header",
+    "FLiC_Bang_hieu_Standee embeds all textures",
+    "FLiC_Bang_hieu_Standee no external buffers",
+    "signs contains signs and standees",
+    "Signs export independent",
+    "Mobile layout fits screen",
+    "No browser or WebGL errors",
+    "Final GLBs preserve PNG logos/QR and use JPEG for photographic materials"
+  ],
+  "errors": [],
+  "exports": {
+    "FLiC_Tong_the": {
+      "bytes": 12667220,
+      "nodes": 407,
+      "images": 19,
+      "extensions": [
+        "EXT_mesh_gpu_instancing",
+        "KHR_materials_unlit",
+        "KHR_texture_transform"
+      ],
+      "mimeTypes": [
+        "image/jpeg",
+        "image/png"
+      ]
+    },
+    "FLiC_Cong_trinh": {
+      "bytes": 11767668,
+      "nodes": 124,
+      "images": 16,
+      "extensions": [
+        "EXT_mesh_gpu_instancing",
+        "KHR_materials_unlit"
+      ],
+      "mimeTypes": [
+        "image/jpeg",
+        "image/png"
+      ]
+    },
+    "FLiC_Bang_hieu_Standee": {
+      "bytes": 10412108,
+      "nodes": 36,
+      "images": 12,
+      "extensions": [
+        "KHR_materials_unlit",
+        "EXT_mesh_gpu_instancing"
+      ],
+      "mimeTypes": [
+        "image/jpeg",
+        "image/png"
+      ]
+    }
+  },
+  "geometry": {
+    "invalid": 0,
+    "meshes": 363,
+    "instances": 2141,
+    "triangles": 50284,
+    "groups": [
+      "building",
+      "storefront",
+      "signage",
+      "standees",
+      "roof",
+      "murals",
+      "ground",
+      "track",
+      "planting",
+      "context",
+      "utilities"
+    ],
+    "dimensions": {
+      "width": 26,
+      "depth": 10,
+      "wallHeight": 4.15,
+      "fasciaHeight": 2.25,
+      "fasciaBottom": 3.5,
+      "shutterHeight": 3.3
+    },
+    "revision": "180",
+    "gateCount": 8
+  },
+  "offlineHTTPRequests": []
+}

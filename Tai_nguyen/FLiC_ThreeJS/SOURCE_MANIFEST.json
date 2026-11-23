@@ -1,0 +1,237 @@
+{
+  "front": [
+    {
+      "index": 1,
+      "source": "Phía trước/1795345487199_2160116374262195386_4543681234886357582_6d32e960ffed6da50f3e5bab9df873b1.jpg",
+      "path": "references/front/01.jpg",
+      "sha256": "4985b31348b14bd6fe7940509f3dc9ee002a437635fedb8417460ab04fdb68c5",
+      "packaged": true
+    },
+    {
+      "index": 2,
+      "source": "Phía trước/1795345487367_2160116374262195386_4543681234886357582_e9e0d2c5e203f0d678d5e710bddc3e25.jpg",
+      "path": "references/front/02.jpg",
+      "sha256": "06f565b14b777982cd9d8b18f86461c9ad2d7363be309595cca5c0cae4e1afa6",
+      "packaged": true
+    },
+    {
+      "index": 3,
+      "source": "Phía trước/1795345487534_2160116374262195386_4543681234886357582_6e26b7ddfbe961b5f54fa47b4f721bec.jpg",
+      "path": "references/front/03.jpg",
+      "sha256": "6da9bf99281008b5ea08dcffa03ade48fd3058760093bd166a2105d0242388c3",
+      "packaged": true
+    },
+    {
+      "index": 4,
+      "source": "Phía trước/1795345487699_2160116374262195386_4543681234886357582_e47d1996aa600ba9bfe04b33dd0c5687.jpg",
+      "path": "references/front/04.jpg",
+      "sha256": "3a2e151491ec4e04b64687f85d9ee016d79531d4cc66191c195f5c2ce08f94e4",
+      "packaged": true
+    },
+    {
+      "index": 5,
+      "source": "Phía trước/1795345487954_2160116374262195386_4543681234886357582_330725b86ad091f242a0445bdfc74a2f.jpg",
+      "path": "references/front/05.jpg",
+      "sha256": "ca764983e099e6606ebdd8d8a1894d6518d692ed34f940d67ade059dcc2bb9f9",
+      "packaged": true
+    },
+    {
+      "index": 6,
+      "source": "Phía trước/1795345488099_2160116374262195386_4543681234886357582_696b91c76a1053434f0d58d5706ff269.jpg",
+      "path": "references/front/06.jpg",
+      "sha256": "97fa6863a9eadbd632ee4fcdba39f8537d28211dd3a695be180fab90788d92dc",
+      "packaged": true
+    },
+    {
+      "index": 7,
+      "source": "Phía trước/1795345488295_2160116374262195386_4543681234886357582_0bc75b2b6ce5746a2d26be6f0f81746a.jpg",
+      "path": "references/front/07.jpg",
+      "sha256": "36ac30c80d4e154e487b6a8a47e3c4365d5af9df059c18d8176f27094a001c1c",
+      "packaged": true
+    },
+    {
+      "index": 8,
+      "source": "Phía trước/1795345488418_2160116374262195386_4543681234886357582_4d77550b12157d8f5f4dbd7fdf452e8b.jpg",
+      "path": "references/front/08.jpg",
+      "sha256": "a70ef03d635fdba364ab18f435b5d0497d7054cbb241865ba6ba7acf99029930",
+      "packaged": true
+    },
+    {
+      "index": 9,
+      "source": "Phía trước/1795345488645_2160116374262195386_4543681234886357582_fa66048f94b322ce383daeb44d4d7942.jpg",
+      "path": "references/front/09.jpg",
+      "sha256": "bfa37e992ba53766b2c67c7bef4638b1525f890c9793753efdcbfcbf02cfabd5",
+      "packaged": true
+    },
+    {
+      "index": 10,
+      "source": "Phía trước/1795345488778_2160116374262195386_4543681234886357582_f9fc0cb7f2ec5495276967301efcf4cc.jpg",
+      "path": "references/front/10.jpg",
+      "sha256": "e6d1bd2edb77764d928d3cd47cd8cbea61c3475c186d024482b1ec95a1c3e6bb",
+      "packaged": true
+    },
+    {
+      "index": 11,
+      "source": "Phía trước/1795345488963_2160116374262195386_4543681234886357582_6f2a0d6d89faf6030c3c97647159b82f.jpg",
+      "path": "references/front/11.jpg",
+      "sha256": "7617013c797fa2b0b3c1f3666165d08209e91b2bc9aaf999b326066dc12748bb",
+      "packaged": true
+    },
+    {
+      "index": 12,
+      "source": "Phía trước/1795345489139_2160116374262195386_4543681234886357582_678e77f33f8b410c8cd846ab32655a50.jpg",
+      "path": "references/front/12.jpg",
+      "sha256": "3b1633ddf237834192b1c6f807d98ad7412bca075fe99df6d5c394714ca6bbae",
+      "packaged": true
+    },
+    {
+      "index": 13,
+      "source": "Phía trước/1795345489272_2160116374262195386_4543681234886357582_dfc946304a7cd06b48584b55b8388364.jpg",
+      "path": "references/front/13.jpg",
+      "sha256": "5a3f386e337d587b1312b212e4ac929cd385ae397649073357dace8d92efb385",
+      "packaged": true
+    },
+    {
+      "index": 14,
+      "source": "Phía trước/1795345489520_2160116374262195386_4543681234886357582_c8489695de72b197cd4248f5e6d43fbf.jpg",
+      "path": "references/front/14.jpg",
+      "sha256": "3afe9d4f4307f6c7962d1fe493292fc1bb18ddd3d766d6c4132868ebef1a150b",
+      "packaged": true
+    }
+  ],
+  "rear": [
+    {
+      "index": 1,
+      "source": "Phía sau/1795349719356_2160116374262195386_4543681234886357582_742772ed2fe7d90005ee6925fae7c402.jpg",
+      "path": "references/rear/01.jpg",
+      "sha256": "4e616b91dc70c187497ea36dbb62957b964d957968ee33a934b2aec8857ea6f1",
+      "packaged": true
+    },
+    {
+      "index": 2,
+      "source": "Phía sau/1795349719522_2160116374262195386_4543681234886357582_3bb0b091a4802d63652d2227938f00aa.jpg",
+      "path": "references/rear/02.jpg",
+      "sha256": "79a815b56165ae158e838bd447f4875a56047c1e407013dcad727b6f960f8039",
+      "packaged": true
+    },
+    {
+      "index": 3,
+      "source": "Phía sau/1795349719764_2160116374262195386_4543681234886357582_0088b69b680c71d527c585b8c1eb5995.jpg",
+      "path": "references/rear/03.jpg",
+      "sha256": "a1a75a6d274d81e0d78490c466b5d3347ea0c4464e2157838f391c0149a5c495",
+      "packaged": true
+    },
+    {
+      "index": 4,
+      "source": "Phía sau/1795349719891_2160116374262195386_4543681234886357582_679d48ffa232ca0e63f39bb09cf31adc.jpg",
+      "path": "references/rear/04.jpg",
+      "sha256": "683f70c05f246ea330fe37b837325058e12217150b5dcb60a434d7c8e51421c0",
+      "packaged": true
+    },
+    {
+      "index": 5,
+      "source": "Phía sau/1795349720083_2160116374262195386_4543681234886357582_3e1f09404323c832674dd287e1e2cab9.jpg",
+      "path": "references/rear/05.jpg",
+      "sha256": "969ebd01edaaa4f869e8920b2864625052975c1164f65321a3de082c4e5a57a7",
+      "packaged": true
+    },
+    {
+      "index": 6,
+      "source": "Phía sau/1795349720287_2160116374262195386_4543681234886357582_7ad4175ceb5da83c1020d6c7a2c9220c.jpg",
+      "path": "references/rear/06.jpg",
+      "sha256": "ed0ed651e1959d99a78cf44e091c30355f9a5b8122800593fdf467dc16ca1b89",
+      "packaged": true
+    }
+  ],
+  "signs": [
+    {
+      "index": 1,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/076187fb-574a-4cf1-a123-0c2c44368a92.png",
+      "path": "assets/original/01.png",
+      "sha256": "d1633a63aa12dce7270c45fefad902644fb37744d1227574ff11fb98aa0e2f4e",
+      "packaged": false
+    },
+    {
+      "index": 2,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/1795348418037_2160116374262195386_4543681234886357582_d3d889cd4efa18f5462b35fdb58605e3.jpg",
+      "path": "assets/original/02.jpg",
+      "sha256": "3cc5005cdba692afa0408285f69bbb85c4c82e93ae60470695dfeb66c5e2fe34",
+      "packaged": false
+    },
+    {
+      "index": 3,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/bảng 1.png",
+      "path": "assets/original/03.png",
+      "sha256": "bb19cee6caa2b142c4d965cffcd250d9173aebf9811363c0c03001da21a22688",
+      "packaged": false
+    },
+    {
+      "index": 4,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/bảng 2.png",
+      "path": "assets/original/04.png",
+      "sha256": "a3131915627d00850db69f1c364e7d26c79b4d42881fc119f80dba67346984bf",
+      "packaged": false
+    },
+    {
+      "index": 5,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/bảng 3.png",
+      "path": "assets/original/05.png",
+      "sha256": "491e0058d6a49636722a6b6643f20ebd1b89c2caff1d8ec5ebe661c16ab1976e",
+      "packaged": false
+    },
+    {
+      "index": 6,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/Phuc_dung_Chieu_sinh.png",
+      "path": "assets/original/06.png",
+      "sha256": "45e11879346613604f3f883ce3a3b190f926b07c0eae53a538c529511bddfcce",
+      "packaged": false
+    },
+    {
+      "index": 7,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/Phuc_dung_IELTS.png",
+      "path": "assets/original/07.png",
+      "sha256": "660ec57482f51e88363a9c42bc3080ad0347cc92c9787f6286767b04075ff3d5",
+      "packaged": false
+    },
+    {
+      "index": 8,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/Phuc_dung_VSTEP_giao_tiep.png",
+      "path": "assets/original/08.png",
+      "sha256": "397eba3932eeb90fcd1f9262d05721dd98ef97da8e4396c99e6ad28f9eeef9f9",
+      "packaged": false
+    },
+    {
+      "index": 9,
+      "source": "Ảnh bảng hiệu, standee đã phục dựng/Trung tâm ngoại ngữ .png",
+      "path": "assets/original/09.png",
+      "sha256": "41ebc98064264b6444f482d16c8f854256b5435e46a4ca971da0fd46a1b7e4eb",
+      "packaged": true
+    }
+  ],
+  "archives": [
+    {
+      "file": "front.zip",
+      "sha256": "c10b7f58e560a3d98add9515a23c85e6ae0b8db64fdb917e310a074f4ce2647e"
+    },
+    {
+      "file": "rear.zip",
+      "sha256": "78e29a7f151421cc1022ab3793ee5bb4635c835214ca28279a802d7a158ac7e0"
+    },
+    {
+      "file": "signs.zip",
+      "sha256": "dc39196aef81f539833b98b6a7625e600f716c1b092394814f0aa480404c55bb"
+    },
+    {
+      "file": "views.zip",
+      "sha256": "7f39f6f722f4b8bedd079c24a3d90a131ab56c824c98bb5506956708bf22da68"
+    },
+    {
+      "file": "flic.png",
+      "sha256": "1ac3b1ae028b66ea6950d831b05ae7451d23983f9804e2137197603750f68ee1"
+    },
+    {
+      "file": "dthu.png",
+      "sha256": "09a24b2417a2ee063c99e8482b43311af56d77737c5a46ecbfde2b08f3ca026c"
+    }
+  ]
+}

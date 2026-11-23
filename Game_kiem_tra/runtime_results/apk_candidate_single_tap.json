@@ -1,0 +1,35 @@
+{
+  "phase": "apk_candidate",
+  "testName": "single_tap",
+  "engine": "Three.js 170",
+  "environment": "Real WebGL game page in desktop IAB; synthetic pointer input for pinch; no native Android device",
+  "after": {
+    "time": 18471.599999999627,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      301.3157894736842,
+      90.00000000000001,
+      81.05263157894737
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052627
+    ],
+    "distance": 159.4435323241429,
+    "azimuth": 0.6287962864154328,
+    "polar": 1.0218193164806544,
+    "tweenActive": true,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": "A8",
+    "controlsState": -1,
+    "drawCalls": 1805
+  },
+  "selectedCorrectly": true,
+  "finding": "Positive control: a genuine single-contact tap must still select A8 and may intentionally fly to it."
+}

@@ -1,0 +1,28 @@
+{
+  "frame_count": 933,
+  "display_width": 1600,
+  "display_height": 720,
+  "source_coded_width": 720,
+  "source_coded_height": 1600,
+  "rotation_degrees": 90,
+  "duration_seconds": 30.380111,
+  "source_video_sha256": "0c163c58380c6fc9c56eddc4c27cfef77bec6c37e0280d90882e9ea03970f29e",
+  "pts_gap_ms_median": 19.005499999999998,
+  "pts_gap_ms_min": 12.567,
+  "pts_gap_ms_max": 282.178,
+  "estimated_app_rect_px": [
+    71,
+    71,
+    1512,
+    720
+  ],
+  "estimated_app_area_percent": 81.18,
+  "estimated_info_card_rect_px": [
+    904,
+    226,
+    1496,
+    540
+  ],
+  "estimated_info_card_share_of_app_percent": 19.88,
+  "measurement_scope": "Screen recording only; no runtime FPS, GPU, RAM, battery or network conclusions."
+}

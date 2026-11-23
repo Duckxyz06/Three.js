@@ -1,0 +1,146 @@
+{
+  "phase": "apk_candidate",
+  "testName": "pinch_release",
+  "engine": "Three.js 170",
+  "environment": "Real WebGL game page in desktop IAB; synthetic pointer input for pinch; no native Android device",
+  "candidate": "A8",
+  "before": {
+    "time": 19604.200000000186,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      301.3157894736842,
+      90.00000000000001,
+      81.05263157894737
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052627
+    ],
+    "distance": 159.4435323241429,
+    "azimuth": 0.6287962864154328,
+    "polar": 1.0218193164806544,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 1823
+  },
+  "zoomed": {
+    "time": 19606.299999999814,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      267.9824561403509,
+      55.33333333333334,
+      35.21929824561405
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052623
+    ],
+    "distance": 93.00872718908337,
+    "azimuth": 0.628796286415433,
+    "polar": 1.0218193164806544,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": 5,
+    "drawCalls": 1823
+  },
+  "afterFirstRelease": {
+    "time": 19606.700000000186,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      267.9824561403509,
+      55.33333333333334,
+      35.21929824561405
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052623
+    ],
+    "distance": 93.00872718908337,
+    "azimuth": 0.628796286415433,
+    "polar": 1.0218193164806544,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": 5,
+    "drawCalls": 1823
+  },
+  "afterRelease": {
+    "time": 19606.799999999814,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      267.9824561403509,
+      55.33333333333334,
+      35.21929824561405
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052623
+    ],
+    "distance": 93.00872718908337,
+    "azimuth": 0.628796286415433,
+    "polar": 1.0218193164806544,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 1823
+  },
+  "settled": {
+    "time": 23850.700000000186,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      267.9824561403509,
+      55.33333333333335,
+      35.21929824561405
+    ],
+    "target": [
+      221.31578947368422,
+      6.799999999999999,
+      -28.947368421052623
+    ],
+    "distance": 93.00872718908337,
+    "azimuth": 0.6287962864154331,
+    "polar": 1.0218193164806544,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 1004
+  },
+  "falseSelection": false,
+  "flyToScheduled": false,
+  "oneFingerStateAfterPinch": 5,
+  "finding": "Stationary second finger was lifted after first finger moved. Original game tap handlers are exercised. Pointer capture is shimmed only for synthetic IDs."
+}

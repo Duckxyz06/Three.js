@@ -1,0 +1,1 @@
+{"name":"flic-dong-thap-threejs","version":"1.0.0","private":true,"type":"module","scripts":{"serve":"python -m http.server 8080","build:local":"node build-local.cjs"},"description":"Photo-referenced FLiC centre, Three.js r180, local runtime included"}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S01",
+    "title": "Android — immersive/system bars",
+    "url": "https://developer.android.com/develop/ui/views/layout/immersive",
+    "checked_on": "2026-11-17",
+    "summary": "Fullscreen có thể phù hợp game; cần xử lý system bars và insets khi chúng hiện lại. Không mặc định status bar trong video là lỗi game."
+  },
+  {
+    "id": "S02",
+    "title": "Android — touch targets/accessibility",
+    "url": "https://developer.android.com/guide/topics/ui/accessibility/apps",
+    "checked_on": "2026-11-17",
+    "summary": "Android khuyến nghị vùng tương tác tối thiểu 48×48dp. Pixel trong video không đủ xác định dp của thiết bị."
+  },
+  {
+    "id": "S03",
+    "title": "Android — phân tích hiệu năng game",
+    "url": "https://developer.android.com/games/optimize/gameperformance",
+    "checked_on": "2026-11-17",
+    "summary": "Đo runtime, xác định CPU/GPU bottleneck, tối ưu rồi so sánh trong điều kiện tương ứng; không dùng FPS video thay phép đo game."
+  },
+  {
+    "id": "S04",
+    "title": "AdMob — interstitial guidance",
+    "url": "https://support.google.com/admob/answer/6066980",
+    "checked_on": "2026-11-17",
+    "summary": "Interstitial nên ở điểm chuyển tiếp nội dung tự nhiên, tránh click ngoài ý muốn."
+  },
+  {
+    "id": "S05",
+    "title": "AdMob — rewarded policies",
+    "url": "https://support.google.com/admob/answer/7313578",
+    "checked_on": "2026-11-17",
+    "summary": "Rewarded thông thường phải do người dùng chọn rõ ràng; mô tả phần thưởng trung thực và tuân yêu cầu định dạng."
+  },
+  {
+    "id": "S06",
+    "title": "AdMob — UMP Android",
+    "url": "https://developers.google.com/admob/android/privacy",
+    "checked_on": "2026-11-17",
+    "summary": "Kiểm tra/cập nhật consent information khi mở app và hiển thị form nếu cần; quản lý quyền request ads theo SDK."
+  },
+  {
+    "id": "S07",
+    "title": "Google Play — User data",
+    "url": "https://support.google.com/googleplay/android-developer/answer/10144311",
+    "checked_on": "2026-11-17",
+    "summary": "Khai Data safety và privacy policy đúng dữ liệu thực, gồm cả SDK bên thứ ba."
+  },
+  {
+    "id": "S08",
+    "title": "Google Play — target audience",
+    "url": "https://support.google.com/googleplay/android-developer/answer/9867159",
+    "checked_on": "2026-11-17",
+    "summary": "Nhóm tuổi khai báo phải phản ánh sản phẩm; nếu gồm trẻ em thì có yêu cầu Families và ads SDK liên quan."
+  }
+]

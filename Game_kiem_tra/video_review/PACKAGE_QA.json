@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "frames": 933,
+  "per_frame_markdown": 933,
+  "issue_cards": 48,
+  "task_packets": 10,
+  "contact_sheets": 21,
+  "all_images_dimensions": "1600x720",
+  "timestamp_mapping": "FFprobe PTS order, 933/933",
+  "source_video_sha256": "0c163c58380c6fc9c56eddc4c27cfef77bec6c37e0280d90882e9ea03970f29e",
+  "checks": "Local file counts, native image dimensions, PTS/frame mapping, frame and issue links. No app/runtime tests executed."
+}

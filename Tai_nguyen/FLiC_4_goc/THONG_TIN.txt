@@ -1,0 +1,16 @@
+TRUNG TÂM NGOẠI NGỮ VÀ TIN HỌC — TRƯỜNG ĐẠI HỌC ĐỒNG THÁP
+Ngày xuất: 22/11/2026
+
+01_Phia_truoc_4_goc.png: không gian mặt tiền, góc trên / tầm thấp / bên trái / bên phải.
+02_Phia_sau_4_goc.png: không gian tường tranh và đường chạy phía sau, bốn góc tương ứng.
+Kích thước mỗi ảnh: 3072 × 2048 pixel.
+
+Nguồn: Phía trước.zip; Phía sau.zip; Ảnh bảng hiệu, standee đã phục dựng.zip; flic.png; dthu.png do người dùng cung cấp.
+Logo trong phần tiêu đề và bảng chính được ghép từ ảnh logo gốc. Bảng tên, bảng kim loại và các standee mặt trước sử dụng ảnh phục dựng được cung cấp, chiếu theo phối cảnh.
+Hai logo gốc được kèm trong thư mục Logo_goc, giữ nguyên byte ảnh.
+
+GIỚI HẠN ĐỐI CHIẾU
+Đây là ảnh phối cảnh tham chiếu, không phải hồ sơ đo đạc hay ảnh chụp hiện trạng từ tám vị trí.
+Mái, chiều sâu, tỷ lệ chưa đo, các vùng khuất và một phần cảnh quan được ước dựng. Góc 'dưới' là nhìn từ tầm thấp, không phải mặt bằng móng hoặc hình cắt đáy.
+Tranh tường được tái hiện theo ảnh nguồn; chưa phải bản sao từng nét vẽ. Các góc có thể còn sai khác hình học và chi tiết so với công trình thực.
+Ảnh tổng thể không dùng thay thế file in bảng hiệu hoặc QR gốc. Dùng ảnh phục dựng gốc nếu cần đọc chữ nhỏ hoặc quét QR.

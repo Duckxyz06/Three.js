@@ -1,0 +1,226 @@
+[
+  {
+    "schemaVersion": 1,
+    "thread": {
+      "id": "6afbc1e6-0418-8191-a4f9-1aef19eb30be",
+      "kind": "codex",
+      "hostId": "durable",
+      "title": null,
+      "preview": "",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": "/C:\\Users\\PC\\OneDrive\\Documents\\ChatGPT\\Game lịch sử",
+      "createdAt": 1794884073,
+      "updatedAt": 1795458935
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": "eyJ2ZXJzaW9uIjowLCJoYWJpdGF0X2N1cnNvciI6Ik1qQXlOaTB4TVMweU0xUXhPRG94TVRveE9DNHpNekUyTnpFck1EQTZNREI4WVhOMGRYSnVYek14T1RreE1XRmtOV1V3WXpneE9URmlOMlV3TVRJNU5qZGhPRFEyTURrMCIsInNvcnRfZGlyZWN0aW9uIjoyfQ",
+      "hasMore": true
+    },
+    "turns": [
+      {
+        "id": "01a209b1-0cfd-702c-8d51-3271d6d5020e",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458927,
+        "completedAt": 1795458932,
+        "durationMs": 4506,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209b1-0f98-778d-935b-c55c87f2d44b",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tạo three.js cho tòa H1 có đủ bên ngoài bên trong theo tham chiếu\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209b0-819a-74f1-96ba-e5021635a6b9",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458892,
+        "completedAt": 1795458896,
+        "durationMs": 4648,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209b0-83c4-7487-86d2-c0fb9e07123a",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tạo three.js cho tòa H1 có đủ bên ngoài bên trong theo tham chiếu\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209b0-5bab-7563-8785-cf78f37173ee",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458882,
+        "completedAt": 1795458887,
+        "durationMs": 4597,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209b0-5e09-77a2-9995-cadb5ba6580e",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tạo three.js cho tòa H1 có đủ bên ngoài bên trong theo tham chiếu\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209b0-3323-7032-b1e8-dd1d91f03d49",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458872,
+        "completedAt": 1795458876,
+        "durationMs": 4644,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209b0-3561-7335-bd68-ab6c4a65b0d3",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tạo three.js cho tòa H1 có đủ bên ngoài bên trong theo tham chiếu\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209af-a2a2-776f-8842-673406531521",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458835,
+        "completedAt": 1795458839,
+        "durationMs": 4590,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209af-a4ee-74ed-a1d7-f281c554f517",
+            "content": [
+              {
+                "type": "text",
+                "text": "fix lỗi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209af-685a-7459-964d-8c440a376966",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458820,
+        "completedAt": 1795458824,
+        "durationMs": 4568,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209af-6ac4-740d-8187-39d8f50c2d09",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tạo three.js cho tòa H1 có đủ bên ngoài bên trong theo tham chiếu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a209ae-929c-7744-ad61-d7cca304036e",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795458765,
+        "completedAt": 1795458770,
+        "durationMs": 4637,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a209ae-9529-743d-abf5-7ab7718bf05c",
+            "content": [
+              {
+                "type": "text",
+                "text": "Phục dựng lại toàn bộ các bảng, poster trên đây\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a2099b-78ec-722e-b607-625af4525756",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795457513,
+        "completedAt": 1795457518,
+        "durationMs": 4547,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a2099b-7b61-7210-895a-dc3efbb64a4f",
+            "content": [
+              {
+                "type": "text",
+                "text": "Phục dựng lại toàn bộ các bảng, poster trên đây\n\n####"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a2099b-3c03-7385-b841-3c1d302c3869",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795457498,
+        "completedAt": 1795457502,
+        "durationMs": 4544,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a2099b-440a-7028-b2b3-d0d77dd15c46",
+            "content": [
+              {
+                "type": "text",
+                "text": "tiếp tục"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "01a2099a-edef-767a-aaf3-e69811dc578a",
+        "status": "interrupted",
+        "error": null,
+        "startedAt": 1795457478,
+        "completedAt": 1795457482,
+        "durationMs": 4541,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "01a2099a-f05c-7646-942b-2d4918f4728d",
+            "content": [
+              {
+                "type": "text",
+                "text": "Phục dựng lại toàn bộ các bảng, poxter trên đây"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

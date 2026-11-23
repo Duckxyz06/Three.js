@@ -1,0 +1,62 @@
+{
+  "phase": "apk_original",
+  "testName": "idle",
+  "engine": "Three.js 170",
+  "environment": "Real WebGL game page in desktop IAB; synthetic pointer input for pinch; no native Android device",
+  "before": {
+    "time": 143663.7000000002,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      0,
+      330,
+      330
+    ],
+    "target": [
+      0,
+      0,
+      -5
+    ],
+    "distance": 470.2393007820593,
+    "azimuth": 0,
+    "polar": 0.7929168187097523,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2850
+  },
+  "after": {
+    "time": 146478.5,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      0,
+      330,
+      330
+    ],
+    "target": [
+      0,
+      0,
+      -5
+    ],
+    "distance": 470.2393007820593,
+    "azimuth": 0,
+    "polar": 0.7929168187097523,
+    "tweenActive": false,
+    "autoRotate": false,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2850
+  },
+  "positionDrift": 0,
+  "finding": "Baseline camera without automation or gesture."
+}

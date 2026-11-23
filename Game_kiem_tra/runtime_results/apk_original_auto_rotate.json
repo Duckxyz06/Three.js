@@ -1,0 +1,90 @@
+{
+  "phase": "apk_original",
+  "testName": "auto_rotate",
+  "engine": "Three.js 170",
+  "environment": "Real WebGL game page in desktop IAB; synthetic pointer input for pinch; no native Android device",
+  "before": {
+    "time": 89110.59999999963,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      -0.02338741195772611,
+      330,
+      329.99999918362533
+    ],
+    "target": [
+      0,
+      0,
+      -5
+    ],
+    "distance": 470.2393007820593,
+    "azimuth": -6.981317007977317e-05,
+    "polar": 0.7929168187097523,
+    "tweenActive": false,
+    "autoRotate": true,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2850
+  },
+  "afterWheel": {
+    "time": 89111,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      -0.05915275749529406,
+      282.9337499999999,
+      282.2206189087787
+    ],
+    "target": [
+      0,
+      0,
+      -5
+    ],
+    "distance": 403.17142050801795,
+    "azimuth": -0.00020594885173533088,
+    "polar": 0.7929168187097523,
+    "tweenActive": false,
+    "autoRotate": true,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2850
+  },
+  "after": {
+    "time": 93534.09999999963,
+    "viewport": [
+      800,
+      360
+    ],
+    "camera": [
+      -0.9528596892286998,
+      282.9337499999999,
+      282.2190444309068
+    ],
+    "target": [
+      0,
+      0,
+      -5
+    ],
+    "distance": 403.17142050801795,
+    "azimuth": -0.003317524419035699,
+    "polar": 0.7929168187097523,
+    "tweenActive": false,
+    "autoRotate": true,
+    "tourActive": false,
+    "walk": false,
+    "selected": null,
+    "controlsState": -1,
+    "drawCalls": 2824
+  },
+  "autoRotateNotCancelled": true,
+  "angularDrift": -0.0031115755673003682,
+  "finding": "Explicit autoRotate enabled, as also done by tour. Verify manual zoom stops or leaves automation."
+}
